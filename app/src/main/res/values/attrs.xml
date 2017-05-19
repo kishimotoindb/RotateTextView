@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--文字显示的角度-->
+    <declare-styleable name="RotateTextView">
+        <attr name="angle" format="integer"/>
+    </declare-styleable>
+</resources>
